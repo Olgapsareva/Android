@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="push_me">Push me</string>
+    <string name="big_button">большая кнопка</string>
+    <string name="radio_button">чпуньк</string>
+    <string name="header">SOME text</string>
+    <string name="checkbox">отметь меня</string>
+</resources>
